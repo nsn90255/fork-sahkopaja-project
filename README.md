@@ -1,4 +1,4 @@
-# Sähköpaja project
+# Cpy of Sähköpaja project
 ## Ideas so far :
 ### Calculator
 Wanted :
